@@ -1,0 +1,6 @@
+- txt: Bean
+  url: http://www.baidu.com
+  expect: 断言成功
+
+#- name: Ovilia
+#  url: http://www.baidu.com

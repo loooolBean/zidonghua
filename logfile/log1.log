@@ -1,0 +1,5 @@
+2022-02-17 23:24:46,759 base_log.py DEBUG <module> 调试级别
+2022-02-17 23:24:46,759 base_log.py INFO <module> 正常级别
+2022-02-17 23:24:46,759 base_log.py WARNING <module> 警告级别
+2022-02-17 23:24:46,759 base_log.py ERROR <module> 错误级别
+2022-02-17 23:24:46,759 base_log.py CRITICAL <module> 严重级别
